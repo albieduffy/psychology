@@ -32,12 +32,12 @@ To work with the materials in this repo, install both R (the language) and RStud
 Below is the structure and purpose of the key directories in this repository:
 
 ```bash
-psychology/
-├─ classes/           # weekly class materials, examples, and exercises
-│  └─ week_one/       # materials for Week 1
-│     ├─ README.md    # week overview and instructions
-│     └─ week_one.r   # guided R script for Week 1 tasks
-└─ README.md          # project overview and setup instructions
+statistics/
+├─ classes/             # weekly class materials, examples, and exercises
+│  └─ week_one/         # materials for Week 1
+│     ├─ lab_notes.md   # lab overview and instructions
+│     └─ lab_scipt.r    # guided R script for Week 1 tasks
+└─ README.md            # project overview and setup instructions
 ```
 
 As the module progresses, additional weekly folders (e.g., `week_two/`, `week_three/`) will be added under `classes/` with their own `README.md` and relevant scripts or data.
