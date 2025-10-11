@@ -1,4 +1,4 @@
-### Section E. Coding in R and the Environment Tab
+### Coding in R and the Environment Tab
 
 One aspect of using R that can feel daunting at first is writing code. The learning curve can be steeper than point‑and‑click software, but you gain a deeper and more flexible skillset. With a little practice, the basic jargon and ideas become second nature, and coding is a great transferable skill for postgraduate study and many careers.
 
@@ -52,7 +52,7 @@ rm(calculation)
 
 To clear the Environment entirely, you can use the broom icon at the top of the Environment tab in RStudio.
 
-### Section F. R Packages
+### R Packages
 
 Base R provides many built‑in functions and analyses, but R truly shines through packages, add‑ons that extend functionality. Because R is open source, anyone can contribute packages, and there are thousands available for a wide range of scientific tasks.
 
